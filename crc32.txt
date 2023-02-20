@@ -1,0 +1,3 @@
+data/00/00/00/00/00.bin	d30a670a
+data/00/00/00/00/01.bin	ccbafc32
+data/00/00/00/00/02.bin	8cd55ba5
